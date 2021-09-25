@@ -1,3 +1,11 @@
+/*
+Author: Yazeed Hasan
+Date last modified: 9/25/2021
+Purpose: To provide outputs of specific dates
+Status: Complete/No errors
+P.S.:I added an extra part to change the number of the week to the name of it
+ */
+
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 public class GregCal {
